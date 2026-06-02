@@ -202,7 +202,7 @@ a {
 
 .compact-grid {
   display: grid !important;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem 0.75rem;
   margin-left: 0;
   margin-right: 0;
