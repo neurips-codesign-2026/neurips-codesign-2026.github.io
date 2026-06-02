@@ -261,7 +261,7 @@ a {
 }
 
 .person-card.compact .affiliation {
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .note-box {
